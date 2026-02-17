@@ -1,0 +1,6 @@
+ebnerd-benchmark
+data/ebnerd_demo
+data/ebnerd_testset
+experiments
+venv
+5 - model_class/contrastive_vector.parquet
